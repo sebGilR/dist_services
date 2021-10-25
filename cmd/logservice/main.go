@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	log.Run("./app.log")
+	log.Run("./dist_services.log")
 
 	host, port := "localhost", "4000"
 
